@@ -5,4 +5,8 @@ Gate Thrower:
 https://play.google.com/store/apps/details?id=games.mai.gatethrower&hl=tr&gl=US
 
 Pixel Fever:
+<<<<<<< HEAD
 https://play.google.com/store/apps/details?id=games.mai.pixelfever&hl=tr&gl=US
+=======
+https://play.google.com/store/apps/details?id=games.mai.pixelfever&hl=tr&gl=US
+>>>>>>> e6482f9542a094547eaffe714394a10c8216f569
